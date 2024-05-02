@@ -1,0 +1,4 @@
+Dataset Link - https://www.kaggle.com/datasets/valentynsichkar/traffic-signs-preprocessed/data
+
+# Dataset is already preprocessed
+#We used "data0.pickle"
